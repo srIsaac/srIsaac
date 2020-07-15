@@ -1,5 +1,5 @@
 ### Isaac Campos
-[[![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaaccampos015//)](https://www.linkedin.com/in/isaaccampos015/) [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaac.campos015@gmail.com)](mailto:isaac.campos015@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Isaac_Campos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaaccampos015//)](https://www.linkedin.com/in/isaaccampos015/) [![Gmail Badge](https://img.shields.io/badge/-isaac.campos015@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaac.campos015@gmail.com)](mailto:isaac.campos015@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
