@@ -6,7 +6,6 @@
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** C#, JavaScript
 -  **Hobbies :** Articles & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organisation :** Rock Content
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
